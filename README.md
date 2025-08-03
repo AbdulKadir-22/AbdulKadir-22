@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 Hi, I’m Abdulkadir<br>Fullstack MERN developer<br>A BTech student on a mission to build clean,<br>scalable apps and become the best coder.<br>Currently diving into Java, DSA & backend systems.<br>Always building, always learning.
+# About Me  
+🎓 I'm a 2nd-year Computer Science student  
+💻 Currently focused on mastering Fullstack Web Development (MERN)  
+📚 Exploring Java & Data Structures to crack coding challenges  
+🎯 Actively building projects and preparing for hackathons  
+🛠️ I believe in clean code, strong logic, and lifelong learning  
+📫 How to reach me: [yusuf22086@gmail.com](mailto:yusuf22086@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdul-kadir-shaikh-47ab9a357/)
+
 
 
 ## 🌐 Socials:
