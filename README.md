@@ -77,14 +77,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Abdulkadir-22&show_icons=true&include_all_commits=true&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Abdulkadir-22&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadir-22&layout=compact&hide_border=false)
-
----
-
 ## 🧭 Philosophy
 
 > Consistency beats intensity.  
