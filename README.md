@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me 
 
 👋 Hello! I’m **Abdul Kadir**, a Computer Science undergraduate who finds quiet joy in turning ideas into systems and bugs into lessons.
 
@@ -13,7 +13,6 @@
 🧠 Advocate of clean architecture, readable code, and systems that age gracefully.
 
 📫 Reach me at: **yusuf22086@gmail.com**  
-🔗 LinkedIn: *linked below*
 
 ---
 
