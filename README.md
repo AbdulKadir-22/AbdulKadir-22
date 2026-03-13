@@ -80,7 +80,7 @@
 
 > Consistency beats intensity.  
 > Readability outlives cleverness.  
-> Code is written once—but read forever.
+> Code is written once, but read forever.
 
 I aim to build systems that make sense, age well, and respect the next developer—  
 even when that developer is future me.
