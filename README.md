@@ -12,7 +12,7 @@
 
 🧠 Advocate of clean architecture, readable code, and systems that age gracefully.
 
-📫 Reach me at: **yusuf22086@gmail.com**  
+📫 Reach me at: **contact@abdulkadir.in**  
 
 ---
 
